@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4aa74801-084d-44e1-8840-4a3348c6c406" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1lKQ36aJoHCQUWhbio003v4A1dk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Golang/Mutex" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build xx.go">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FuckingCSInterview" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Golang/Clousure/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FuckingCSInterview" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Golang/Mutex/main.go" />
+      <output_directory value="$PROJECT_DIR$/Golang/Mutex" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build xx.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FuckingCSInterview" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Golang/Clousure/xx.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build xx.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1643" y="622" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607501119396">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state x="-1643" y="622" key="#com.intellij.fileTypes.FileTypeChooser/-2560.0.2560.1080/0.0.1920.1080@-2560.0.2560.1080" timestamp="1607501119396" />
+    <state x="625" y="100" key="#go_build_main.go" timestamp="1607343670412">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="100" key="#go_build_main.go/-2560.0.2560.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1607343670412" />
+    <state x="562" y="270" key="EditFileWatcherDialog" timestamp="1607432820159">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="562" y="270" key="EditFileWatcherDialog/-2560.0.2560.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1607432820159" />
+    <state x="633" y="250" key="EnvironmentVariablesDialog" timestamp="1607343653171">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="633" y="250" key="EnvironmentVariablesDialog/-2560.0.2560.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1607343653171" />
+    <state x="690" y="238" key="FileChooserDialogImpl" timestamp="1607343635491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="238" key="FileChooserDialogImpl/-2560.0.2560.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1607343635491" />
+    <state width="1852" height="198" key="GridCell.Tab.0.bottom" timestamp="1607503234801">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1852" height="198" key="GridCell.Tab.0.bottom/-2560.0.2560.1080/0.0.1920.1080@-2560.0.2560.1080" timestamp="1607503234801" />
+    <state width="1867" height="181" key="GridCell.Tab.0.bottom/-2560.0.2560.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1607433156803" />
+    <state width="1852" height="198" key="GridCell.Tab.0.center" timestamp="1607503234799">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1852" height="198" key="GridCell.Tab.0.center/-2560.0.2560.1080/0.0.1920.1080@-2560.0.2560.1080" timestamp="1607503234799" />
+    <state width="1867" height="181" key="GridCell.Tab.0.center/-2560.0.2560.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1607433156803" />
+    <state width="1852" height="198" key="GridCell.Tab.0.left" timestamp="1607503234799">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1852" height="198" key="GridCell.Tab.0.left/-2560.0.2560.1080/0.0.1920.1080@-2560.0.2560.1080" timestamp="1607503234799" />
+    <state width="1867" height="181" key="GridCell.Tab.0.left/-2560.0.2560.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1607433156802" />
+    <state width="1852" height="198" key="GridCell.Tab.0.right" timestamp="1607503234800">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1852" height="198" key="GridCell.Tab.0.right/-2560.0.2560.1080/0.0.1920.1080@-2560.0.2560.1080" timestamp="1607503234800" />
+    <state width="1867" height="181" key="GridCell.Tab.0.right/-2560.0.2560.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1607433156803" />
+    <state x="345" y="98" key="SettingsEditor" timestamp="1607432821601">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="345" y="98" key="SettingsEditor/-2560.0.2560.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1607432821601" />
+    <state x="-1730" y="215" width="777" height="652" key="find.popup" timestamp="1607497397016">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state x="-1730" y="215" width="777" height="652" key="find.popup/-2560.0.2560.1080/0.0.1920.1080@-2560.0.2560.1080" timestamp="1607497397016" />
+  </component>
+</project>
